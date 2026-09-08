@@ -24,4 +24,4 @@ Todo o processo de criação foi realizado por mim, incluindo:
 
 Este projeto demonstra minha experiência com **gravação e edição de vídeo**, utilizando ferramentas gratuitas.
 
-**Partes do texto tiveram intervençao de I.A para proporcionar um melhor entendimento.**
+**Partes do texto tiveram intervenção de I.A para proporcionar um melhor entendimento.**
